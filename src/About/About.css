@@ -111,7 +111,7 @@ body {
 .ah3 {
   font-size: 2em;
   font-weight: 700;
-  margin-top: -2em;
+  
 }
 
 .aimage img {
@@ -122,7 +122,7 @@ body {
 }
 
 .aimage:hover img:hover{
-  border-radius: 0% 100% 0% 100% / 66%
+  border-radius: 5% 100% 5% 100% / 66%
               18% 82% 34%
             
             
@@ -135,6 +135,9 @@ body {
     padding: 10rem 1rem 5rem 1rem;
     text-align: center;
     grid-template-columns: repeat(1, 1fr);
+  }
+  .ah3{
+    margin-top: -4em;
   }
 
   .aimage {

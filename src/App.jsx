@@ -22,7 +22,6 @@ function App() {
   return (
     <div>
       <Nav/>
-      
       <Home/>
       <About/>
       <Skills/>

@@ -10,13 +10,8 @@ const Footer = ()=>{
             <div className="logo">Arvind  Sharma</div>
 
             <p className="footer-links">
-                <a href="#">Home</a>
-                |
-                <a href="#">About </a>
-                |
-                <a href="#">Skills</a> 
-                |
-                <a href="#">Projects</a>
+                <a href="#">||Home||</a>
+                
             </p>
 
             <p className="footer-company-name">Copyright © 2024 <strong>Arvind Sharma</strong> All rights reserved</p>

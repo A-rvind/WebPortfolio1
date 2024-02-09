@@ -45,19 +45,23 @@
     color: black;
 }
 .pro-btns{
-    border-radius: 5px;    
-    background-color: #04AA6D; /* Green */
-    border: none;
-    color: white;
-    
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
+   
+  display: flex;
+  justify-content: space-between;
+  
+      
 }
-.pro-btns .btn{
-    padding: 0.5rem 1rem;
+.btn{
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 7px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
 }
+
 @media screen and (max-width:740px){
     .project-container{
         max-width: 80%;

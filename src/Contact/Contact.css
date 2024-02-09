@@ -10,11 +10,12 @@
     display: flex;    
     flex-direction: column;
     border-radius: 15px;
-    height: 70vh;
+    height: 100%;
     width: 100%;
     background: linear-gradient(45deg, #d2001a, #7462ff, #f48e21, #23d5ab);
     background-size: 300% 300%;
     animation: color 12s ease-in-out;
+    
 }
 
 @keyframes color{
@@ -28,23 +29,25 @@
         background-position: 0 50%;
     }
 }
-
+.wrap-contact100{
+    margin: 1rem;
+}
 .contact100-form-title{
     display: flex;
     justify-content: center;
     font-size: 2rem;
     font-weight: 700;
     margin: 1rem;
-
+    
 }
+
 
 
 .wrap-input100{
     
     display: flex;
     justify-content: center;
-
-   
+     
 }
 
 .input100{

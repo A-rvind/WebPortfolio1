@@ -35,8 +35,7 @@ const Home =()=> {
             }}/></div>  
             <div>
             <a href="mailto:arvindgsharma985@gmail.com"><button className='button1' >Hire Me</button></a>
-            <a href="https://www.dropbox.com/scl/fi/3oa2u8bn7pmfrk11ucwlc/
-            Arvind-Sharma-Resume.pdf?rlkey=o271m3oppghscp79kgbspfx5c&dl=0">
+            <a href="https://www.dropbox.com/scl/fi/xwd5avz0ehh2b24x2rvdy/Arvind-Sharma-Resume.pdf?rlkey=j68eymi6p2qkpu7x3jfe4oy1d&dl=0">
             <button className='button2'>Resume</button></a></div>
         
       </div>

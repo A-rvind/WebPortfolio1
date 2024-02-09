@@ -1,5 +1,7 @@
 
-.containerhome{height: 90vh;
+.containerhome{
+    height: 100vh;
+    width: 100%;
    background-image: url('../assets/Home.jpg'); 
     background-size: cover;
     border-radius: 15px;
@@ -15,13 +17,13 @@
 
 
 .titleThree {
-    color: blue;
+    color: rgba(4, 0, 255, 0.801);
 }
 .titlename{
-    font-size: 4em;
+    font-size: 3rem;
 }
 .type1{
-    font-size: 2em;
+    font-size: 1.3rem;
 }
 
 

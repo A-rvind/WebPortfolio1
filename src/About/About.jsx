@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import Home from '../assets/Home.jpg'
+import img5 from '../assets/img5.jpg'
 import {Link} from "react-scroll"
 
 
@@ -25,7 +25,7 @@ const About = () => {
         </div>
         <div className="aimage">
           <div className='ah3'>About ME</div>
-          <img src={Home} alt="aboutimg" />
+          <img src={img5} alt="aboutimg" />
         
         
         </div>

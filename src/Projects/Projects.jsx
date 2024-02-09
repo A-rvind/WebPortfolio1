@@ -16,6 +16,7 @@
     <div className="pro-details">
     <p>It is clone of Home page also subpages of Amazon. It contain Search items, Checkout form, Add cart Pages. The tech used : HTML, CSS and JS.</p>
     <div className='pro-btns'>
+       <a href='https://github.com/A-rvind/amazon-clone'><button className="btn">Source</button></a>
        <a href='https://github.com/A-rvind/amazon-clone'><button className="btn">view</button></a>
     </div>
     
@@ -28,7 +29,8 @@
     <div className="pro-details">
     <p>The tech used: ReactJS, CSS Tailwind, React-hook-form. Task List which is editable, Apex Chart, Routing</p>
     <div className='pro-btns'>
-    <a href='https://github.com/A-rvind/Tasklist'><button className="btn">view</button></a>
+    <a href='https://github.com/A-rvind/Tasklist'><button className="btn">Source</button></a>
+    <a href='https://github.com/A-rvind/amazon-clone'><button className="btn">view</button></a>
        
     </div>
     
@@ -40,7 +42,8 @@
     <div className="pro-details">
     <p>The tech used: Node JS, CSS(Tailwind), API, Visualization, Location search, °C to °F vice versa</p>
     <div className='pro-btns'>
-    <a href='https://github.com/A-rvind/WeatherAPP'><button className="btn">view</button></a>
+    <a href='https://github.com/A-rvind/WeatherAPP'><button className="btn">Source</button></a>
+    <a href='https://github.com/A-rvind/amazon-clone'><button className="btn">view</button></a>
        
     </div>
     
