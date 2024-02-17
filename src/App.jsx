@@ -12,7 +12,7 @@ import Skills from './Skills/Skills'
 import Contact from './Contact/Contact'
 import Nav from './Navbar/Nav'
 import Projects from './Projects/Projects'
-import Mproject from './Projects/moreproject/mproject';
+import Mproject from './Projects/moreproject/Mproject';
 
 
 
