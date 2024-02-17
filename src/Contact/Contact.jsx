@@ -94,7 +94,7 @@ const Contact = () => {
             className="input100"
             type="text"
             name="email"
-            placeholder="Phone Number"
+            placeholder="Email ID"
             value={user.email}
             onChange={getUserData}
             autoComplete="off"
@@ -108,7 +108,7 @@ const Contact = () => {
             className="input100"
             type="text"
             name="phone"
-            placeholder='Email ID'
+            placeholder='Phone Number'
             value={user.phone}
             onChange={getUserData}
             autoComplete="off"
