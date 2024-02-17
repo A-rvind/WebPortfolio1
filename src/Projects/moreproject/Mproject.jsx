@@ -1,5 +1,5 @@
 import React from 'react'
-import Mcard from './mcard';
+import Mcard from './Mcard';
 import MDataproject from './MDataproject';
 import "./Mproject.css"
 
