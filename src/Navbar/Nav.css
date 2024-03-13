@@ -1,4 +1,10 @@
+.sticky{
+  position: fixed;
+  top:0;
+  width: 100%;
+}
 .navigation {
+    
     height: 75px;
     border-radius: 15px;
     width: 100%;
@@ -14,6 +20,16 @@
   @font-face {
 	font-family: Gistesy;
 	src: url(../assets/Gistesy.ttf);
+}
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 .logo{
 	color: white;

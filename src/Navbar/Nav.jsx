@@ -1,4 +1,4 @@
-import {useState} from 'react'
+import {useState, useEffect} from 'react'
 import {Link} from "react-scroll"
 import './Nav.css'
 
@@ -10,9 +10,17 @@ const Nav = () => {
  
 
   const closeMenu = () => setClick(false)
+  
+  const [scroll, setScroll] = useState(false);
+
+  useEffect(() => {
+    window.addEventListener("scroll", () => {
+      setScroll(window.scrollY > 10);
+    });
+  });
 
   return (
-    <nav className="navigation">
+    <nav className={`navigation ${scroll? "sticky" : ""}`}>
       <a href="/" className="logo">
         Arvind Sharma
       </a>

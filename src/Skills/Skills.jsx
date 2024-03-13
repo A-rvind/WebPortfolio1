@@ -14,7 +14,7 @@ const Skills = () => {
           <h2>React.JS</h2>
         </div>
         <div className='column'>
-          <h2>Angular.JS</h2>
+          <h2>Typescript</h2>
         </div>
         <div className='column'>
           <h2>Next.JS</h2>
@@ -23,10 +23,10 @@ const Skills = () => {
           <h2>Node.JS</h2>
         </div>
         <div className='column'>
-          <h2>HTML</h2>
+          <h2>HTML/HTML5</h2>
         </div>
         <div className='column'>
-          <h2>CSS</h2>
+          <h2>CSS/CSS3</h2>
         </div>
         <div className='column'>
           <h2>Express</h2>

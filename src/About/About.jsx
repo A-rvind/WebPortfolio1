@@ -15,8 +15,10 @@ const About = () => {
           </h1>
           <p className="adescription">
             Welcome to my web portfolio! I'm Arvind,
-            I have completed my bachelor degree. I dedicated effort to enhancing skills,
-            creativity and knowledge. 
+            I have completed my bachelor degree in July 2023. I dedicated effort to enhancing skills,
+            creativity and knowledge.
+            I have strong knowledge in Python, Javascript languages. Further more I have developed many projects based on Reactjs.
+            I am Learning Next.Js and Typscript. -- Updated on Feb 2024
           </p>
           <div className="aaction__btns">
             <Link to="Footer" spy={true} offset={50} duration={500}><button className="ahire__me">Hire Me</button></Link>

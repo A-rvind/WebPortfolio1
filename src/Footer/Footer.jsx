@@ -40,8 +40,7 @@ const Footer = ()=>{
                 
             </p>
             <div className="footer-icons">
-                <a href="https://wa.me/+919850984513"><i className="fa-brands fa-whatsapp"></i></a>
-                
+                <a href="https://wa.me/+919850984513"><i className="fa-brands fa-whatsapp"></i></a>                
                 <a href="https://www.linkedin.com/in/s-arvind/"><i className="fa fa-linkedin"></i></a>
                 <a href="https://as2.ftcdn.net/v2/jpg/00/89/55/15/1000_F_89551596_LdHAZRwz3i4EM4J0NHNHy2hEUYDfXc0j.jpg"><i className="fa fa-instagram"></i></a>
                 <a href="https://www.theneweuropean.co.uk/wp-content/uploads/sites/2/2023/07/347_BALL_twitter-1536x864.jpg"><i className="fa-brands fa-x-twitter"></i></a>

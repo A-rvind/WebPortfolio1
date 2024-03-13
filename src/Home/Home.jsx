@@ -29,7 +29,7 @@ const Home =()=> {
               strings: [
                 "Frontend Developer.",
                 "Software Developer.",
-                "Web Developer."
+                "Data Science."
 
               ],
             }}/></div>  
