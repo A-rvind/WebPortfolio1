@@ -1,5 +1,1 @@
-{
-  "dependencies": {
-    "react-router-dom": "^6.26.0"
-  }
-}
+{\n  "name": "WebPortfolio1",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "react": "^18.0.0",\n    "react-dom": "^18.0.0",\n    "react-router-dom": "^6.26.0",\n    "other-dependency-1": "^1.0.0",\n    "other-dependency-2": "^2.0.0"\n  },\n  "devDependencies": {\n    "eslint": "^8.0.0"\n  }\n}
